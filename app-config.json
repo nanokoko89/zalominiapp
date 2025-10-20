@@ -1,0 +1,9 @@
+{
+  "app": {
+    "title": "Starter Mini App",
+    "version": "1.0.0"
+  },
+  "theme": {
+    "primaryColor": "#0068ff"
+  }
+}

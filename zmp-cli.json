@@ -1,0 +1,7 @@
+{
+  "appId": "YOUR_APP_ID",
+  "port": 3000,
+  "open": false,
+  "https": false,
+  "tunnel": true
+}
